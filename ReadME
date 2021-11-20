@@ -1,1 +1,2 @@
-Sitenin veritabanı bağlantısı yapılamadı. Eğer yapılmış olsaydı siteye kullanıcı kaydetme ve kullanıcı giriş sayfası faal olacaktı. Çokça denedim yapamadım, veritabanı bağlantısını sağlayamadığım için user.php görüntülenmiyor. Rotalarım listesi için vakit ayıramadım veritabanı hatası yüzünden.
+Sitenin veritabanı bağlantısı yapılamadı. Eğer yapılmış olsaydı siteye kullanıcı kaydetme ve kullanıcı giriş sayfası faal olacaktı. Veritabanı bağlantısını sağlayamadığım için user.php görüntülenmiyor. Rotalarım listesi için vakit ayıramadım veritabanı hatası yüzünden.
+En kısa sürede sitenin ve veritabanının hataları giderilip gerçek bir uygulama olacaktır.
